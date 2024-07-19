@@ -1,0 +1,1 @@
+getSelection(23+4)
